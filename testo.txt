@@ -3,7 +3,7 @@ Il testo é incredibilissimo
 Giovanni
 Ionic
 AngularJS
-ElectronJS
+Ele
 Java
 Cloud
 
