@@ -4,3 +4,5 @@ Giovanni
 Ionic
 AngularJS
 ElectronJS
+Java
+Cloud
