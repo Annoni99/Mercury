@@ -2,7 +2,7 @@ Il testo
 
 Giovanni
 Ionic
-AngularJS
+Ang
 ElectronJS
 Java
 Cloud
